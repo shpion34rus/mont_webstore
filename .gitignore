@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+mw_venv
+db.sqlite3
+/static
+.idea
