@@ -6,3 +6,4 @@ mw_venv
 db.sqlite3
 /static
 .idea
+xml_api/api/migrations
